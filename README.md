@@ -20,3 +20,5 @@ A tree is a collection of nodes and edges (connections/lines)
 - Calculating the order of operations
 - The Document Object Model (DOM)
 - Data compression
+
+![tree](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/binary-trees-tries/english/binary-tree-3.png)
