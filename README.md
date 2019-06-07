@@ -1,4 +1,10 @@
-# Binary Trees
+# trees-and-tries
+short notes on treesearch
+
+# Tree
+
+A tree is a collection of nodes and edges (connections/lines)
+
 - [Source: Trekhleb's Readme](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)
 - - In computer science, **binary search trees** (BST), sometimes called 
 ordered or sorted binary trees, are a particular type of container: 
@@ -7,28 +13,6 @@ in memory. They allow fast lookup, addition and removal of
 items, and can be used to implement either dynamic sets of 
 items, or lookup tables that allow finding an item by its key 
 (e.g., finding the phone number of a person by name).
-
-- ![Coding School screenshot](https://drive.google.com/open?id=1FESKCopDso3uPNWluznLdDeq0-ssVV29)
-
-## Complexities
-- [Source: Trekhleb's Readme](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)
-
-### Time Complexity
-
-| Access    | Search    | Insertion | Deletion  |
-| :-------: | :-------: | :-------: | :-------: |
-| O(log(n)) | O(log(n)) | O(log(n)) | O(log(n)) |
-
-### Space Complexity
-
-O(n)
-
-# trees-and-tries
-short notes on treesearch
-
-# Tree
-
-A tree is a collection of nodes and edges (connections/lines)
 
 ## Characteristics
 
@@ -47,6 +31,19 @@ A tree is a collection of nodes and edges (connections/lines)
 - Data compression
 
 ![tree](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/binary-trees-tries/english/binary-tree-3.png)
+
+## Complexities
+- [Source: Trekhleb's Readme](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)
+
+### Time Complexity
+
+| Access    | Search    | Insertion | Deletion  |
+| :-------: | :-------: | :-------: | :-------: |
+| O(log(n)) | O(log(n)) | O(log(n)) | O(log(n)) |
+
+### Space Complexity
+
+O(n)
 
 # Tries
 
