@@ -1,3 +1,5 @@
+![spongebob](https://imgflip.com/i/32wyvb)
+
 # trees-and-tries
 short notes on treesearch
 
