@@ -1,3 +1,28 @@
+# Binary Trees
+- [Source: Trekhleb's Readme](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)
+- - In computer science, **binary search trees** (BST), sometimes called 
+ordered or sorted binary trees, are a particular type of container: 
+data structures that store "items" (such as numbers, names etc.) 
+in memory. They allow fast lookup, addition and removal of 
+items, and can be used to implement either dynamic sets of 
+items, or lookup tables that allow finding an item by its key 
+(e.g., finding the phone number of a person by name).
+
+- [Coding School screenshot](https://drive.google.com/open?id=1FESKCopDso3uPNWluznLdDeq0-ssVV29)
+
+## Complexities
+- [Source: Trekhleb's Readme](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)
+
+### Time Complexity
+
+| Access    | Search    | Insertion | Deletion  |
+| :-------: | :-------: | :-------: | :-------: |
+| O(log(n)) | O(log(n)) | O(log(n)) | O(log(n)) |
+
+### Space Complexity
+
+O(n)
+
 # trees-and-tries
 short notes on treesearch
 
@@ -91,8 +116,7 @@ AVL tree with balance factors (green)
 - Insertion can be a pain, but searching is great ( O(_log_N) )
 - really good for breadth-first i think :)
 - there's something called 'Red Black' trees ? that people think is better
-- this is cool: [🌳try it yourself!](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
-- [geeks for geeks avl questions](https://www.geeksforgeeks.org/practice-questions-height-balancedavl-tree/)
+- this is cool: [🌳](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
 
 
 ## Tree Trivia
