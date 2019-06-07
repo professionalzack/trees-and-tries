@@ -33,5 +33,15 @@ Like a tree, only without the strict rules on Left or Right only
 - Each trie has a root node
 - Each node has a value
 - Each node can have references to other nodes
+- Almost always store alphabetical data. For instance, value stored in a node is a letter and references are other letters that make up a word.
+- Nodes can have properties. For example: 'isWord' on K would tell you a valid word was just spelt (pick)
 
-![trie](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/intro-data-structures/10-Root-Children-Diagram.png)
+## UseCases
+
+- Autocomplete in search bars
+
+![trie](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/binary-trees-tries/root-node.png)
+
+## Tree Trivia
+
+![pants](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/binary-trees-tries/english/pants-meme.jpg)
