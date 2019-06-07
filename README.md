@@ -22,3 +22,16 @@ A tree is a collection of nodes and edges (connections/lines)
 - Data compression
 
 ![tree](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/binary-trees-tries/english/binary-tree-3.png)
+
+# Tries
+
+Like a tree, only without the strict rules on Left or Right only
+
+## Characteristics
+
+- Trie is short for `Retrieval` 
+- Each trie has a root node
+- Each node has a value
+- Each node can have references to other nodes
+
+![trie](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/intro-data-structures/10-Root-Children-Diagram.png)
