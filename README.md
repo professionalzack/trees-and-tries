@@ -8,7 +8,7 @@ items, and can be used to implement either dynamic sets of
 items, or lookup tables that allow finding an item by its key 
 (e.g., finding the phone number of a person by name).
 
-- [Coding School screenshot](https://drive.google.com/open?id=1FESKCopDso3uPNWluznLdDeq0-ssVV29)
+- ![Coding School screenshot](https://drive.google.com/open?id=1FESKCopDso3uPNWluznLdDeq0-ssVV29)
 
 ## Complexities
 - [Source: Trekhleb's Readme](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree/binary-search-tree)
