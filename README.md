@@ -115,7 +115,8 @@ AVL tree with balance factors (green)
 - Insertion can be a pain, but searching is great ( O(_log_N) )
 - really good for breadth-first i think :)
 - there's something called 'Red Black' trees ? that people think is better
-- this is cool: [🌳](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+- this is cool: [🌳try it yourself!](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+- [geeks for geeks avl questions](https://www.geeksforgeeks.org/practice-questions-height-balancedavl-tree/)
 
 
 ## Tree Trivia
