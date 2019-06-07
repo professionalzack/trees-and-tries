@@ -1,4 +1,4 @@
-![spongebob](https://imgflip.com/i/32wyvb)
+![spongebob](https://i.imgflip.com/32wyvb.jpg)
 
 # trees-and-tries
 short notes on treesearch
